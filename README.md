@@ -7,19 +7,20 @@ This repository contains my exercise solutions and source code examples from the
 
 ### Branches Overview
 
-| Branch Name              | Description                                                                      |
-|--------------------------|----------------------------------------------------------------------------------|
-| `create-my-sql-users`    | Scripts for database and user creation in MySQL                                  |
-| `h2-console`             | Enabling H2 web console and viewing tables                                       |
+| Branch Name              | Description                                                                     |
+|--------------------------|---------------------------------------------------------------------------------|
+| `create-my-sql-users`    | Scripts for database and user creation in MySQL                                 |
+| `h2-console`             | Enabling H2 web console and viewing tables                                      |
 | `init-data-in-splice`    | Initializing data using a Bootstrap class before testing repository with splices |
-| `spring-boot-test`       | Testing Spring Data JPA repositories                                             |
-| `sql-logging`            | Enabling Hibernate SQL logging and query formatting                              |
-| `transaction-demo`       | Demonstrating how transactions work in Spring tests                              |
-| `mysql-config`           | Datasource configuration for MySQL database                                      |
-| `mysql-integration-test` | Simple MySQL integration test utilizing Spring Profiles for configurations       |
-| `h2-mysql-mode`          | Configuring H2 in MySQL Compatibility mode for schema initialization             |
-| `h2-init-schema`         | Initializing H2 Schema from SQL file                                             |
-| `mysql-init-schema`       | Initializing MySQL Schema from SQL file                                          |
+| `spring-boot-test`       | Testing Spring Data JPA repositories                                            |
+| `sql-logging`            | Enabling Hibernate SQL logging and query formatting                             |
+| `transaction-demo`       | Demonstrating how transactions work in Spring tests                             |
+| `mysql-config`           | Datasource configuration for MySQL database                                     |
+| `mysql-integration-test` | Simple MySQL integration test utilizing Spring Profiles for configurations      |
+| `h2-mysql-mode`          | Configuring H2 in MySQL Compatibility mode for schema initialization            |
+| `h2-init-schema`         | Initializing H2 Schema from SQL file                                            |
+| `mysql-init-schema`      | Initializing MySQL Schema from SQL file                                         |
+| `mysql-h2-sb-app`         | Using Maven profiles to select database drivers                                 |
 
 
 ### Tools and Frameworks Used
@@ -29,3 +30,4 @@ This repository contains my exercise solutions and source code examples from the
 * Hibernate
 * H2 Database
 * MySQL
+* Maven
