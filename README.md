@@ -15,9 +15,9 @@ This repository contains my exercise solutions and source code examples from the
 | `spring-boot-test`       | Testing Spring Data JPA repositories                                             |
 | `sql-logging`            | Enabling Hibernate SQL logging and query formatting                              |
 | `transaction-demo`       | Demonstrating how transactions work in Spring tests                              |
-| `mysql-config`            | Datasource configuration for MySQL database                                      |
+| `mysql-config`           | Datasource configuration for MySQL database                                      |
 | `mysql-integration-test` | Simple MySQL integration test utilizing Spring Profiles for configurations       |
-|                          |                                                                                  |
+| `h2-mysql-mode`           | Configuring H2 in MySQL Compatibility mode for schema initialization             |
 
 
 ### Tools and Frameworks Used
