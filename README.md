@@ -7,16 +7,17 @@ This repository contains my exercise solutions and source code examples from the
 
 ### Branches Overview
 
-| Branch Name           | Description                                                                      |
-| --------------------- |----------------------------------------------------------------------------------|
-| `create-my-sql-users` | Scripts for database and user creation in MySQL                                  |
-| `h2-console`          | Enabling H2 web console and viewing tables                                       |
-| `init-data-in-splice` | Initializing data using a Bootstrap class before testing repository with splices |
-| `spring-boot-test`    | Testing Spring Data JPA repositories                                             |
-| `sql-logging`         | Enabling Hibernate SQL logging and query formatting                              |
-| `transaction-demo`    | Demonstrating how transactions work in Spring tests                              |
-|                       |                                                                                  |
-|                       |                                                                                  |
+| Branch Name              | Description                                                                      |
+|--------------------------|----------------------------------------------------------------------------------|
+| `create-my-sql-users`    | Scripts for database and user creation in MySQL                                  |
+| `h2-console`             | Enabling H2 web console and viewing tables                                       |
+| `init-data-in-splice`    | Initializing data using a Bootstrap class before testing repository with splices |
+| `spring-boot-test`       | Testing Spring Data JPA repositories                                             |
+| `sql-logging`            | Enabling Hibernate SQL logging and query formatting                              |
+| `transaction-demo`       | Demonstrating how transactions work in Spring tests                              |
+| `mysql-config`            | Datasource configuration for MySQL database                                      |
+| `mysql-integration-test` | Simple MySQL integration test utilizing Spring Profiles for configurations       |
+|                          |                                                                                  |
 
 
 ### Tools and Frameworks Used
