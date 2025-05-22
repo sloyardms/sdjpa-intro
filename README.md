@@ -18,7 +18,8 @@ This repository contains my exercise solutions and source code examples from the
 | `mysql-config`           | Datasource configuration for MySQL database                                      |
 | `mysql-integration-test` | Simple MySQL integration test utilizing Spring Profiles for configurations       |
 | `h2-mysql-mode`          | Configuring H2 in MySQL Compatibility mode for schema initialization             |
-| `h2-init-schema`          | Initializing H2 Schema from SQL file                                             |
+| `h2-init-schema`         | Initializing H2 Schema from SQL file                                             |
+| `mysql-init-schema`       | Initializing MySQL Schema from SQL file                                          |
 
 
 ### Tools and Frameworks Used
