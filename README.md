@@ -17,7 +17,8 @@ This repository contains my exercise solutions and source code examples from the
 | `transaction-demo`       | Demonstrating how transactions work in Spring tests                              |
 | `mysql-config`           | Datasource configuration for MySQL database                                      |
 | `mysql-integration-test` | Simple MySQL integration test utilizing Spring Profiles for configurations       |
-| `h2-mysql-mode`           | Configuring H2 in MySQL Compatibility mode for schema initialization             |
+| `h2-mysql-mode`          | Configuring H2 in MySQL Compatibility mode for schema initialization             |
+| `h2-init-schema`          | Initializing H2 Schema from SQL file                                             |
 
 
 ### Tools and Frameworks Used
